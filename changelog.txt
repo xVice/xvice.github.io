@@ -1,2 +1,5 @@
+b0.2
+-Added monaco
+
 b0.1
 -Initial release

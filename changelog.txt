@@ -1,3 +1,10 @@
+b0.4
+-Added simple theming
+
+b0.3
+-Updated the UI
+-Added attach button
+
 b0.2
 -Added monaco
 
